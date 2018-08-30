@@ -22,8 +22,7 @@
     }
 
     ul.sidenav li {
-      border-top: 1px solid white;
-
+      border-bottom: 1px solid white;
     }
 
     ul.sidenav li a {
@@ -43,7 +42,6 @@
     div.content {
         margin-left: 15%;
         padding: 1px 16px;
-        /* height: 1000px; */
     }
 
     @media screen and (max-width: 880px) {
@@ -53,9 +51,15 @@
         position: relative;
       }
 
+      ul.sidenav li {
+        border-bottom: 0;
+      }
+
       ul.sidenav li a {
           float: left;
-          /* display: list-item; */
+          display: list-item;
+          border-right: 1px solid white;
+          border-bottom: 1px solid white;
       }
 
       div.content {margin-left: 0;}
