@@ -1,6 +1,8 @@
-body {margin: 0;
-background-color: black;
-color: white;}
+body {
+  margin: 0;
+  background-color: black;
+  color: white;
+}
 
 a {color: white;}
 
@@ -9,19 +11,20 @@ ul.sidenav {
   margin: 0;
   padding: 0;
   width: 150px;
-  background-color: #f1f1f1;
   position: fixed;
+  background-color: rgb(91,153,213,1);
   height: 100%;
   overflow: auto;
+  border-right: 2px solid white;
 }
 
 ul.sidenav li {
-  border-bottom: 1px solid white;
+  border-bottom: 2px solid white;
 }
 
 ul.sidenav li a {
   display: block;
-  color: #000;
+  color: white;
   padding: 16px 16px;
   text-decoration: none;
   text-align: center;
@@ -29,14 +32,14 @@ ul.sidenav li a {
 }
 
 ul.sidenav li a.active {
-  background-color: blue;
+  background-color: rgb(112,173,71,1);
   color: white;
 }
 
 div.content {
-    margin-left: 15%;
-    padding: 1px 16px;
-    text-align: center;
+  margin-left: 15%;
+  padding: 1px 16px;
+  text-align: center;
 }
 
 div.content p {
@@ -60,6 +63,7 @@ div.content #title {
     width: 100%;
     height: auto;
     position: relative;
+    margin-bottom: 5px;
   }
 
   ul.sidenav li {
@@ -67,13 +71,15 @@ div.content #title {
   }
 
   ul.sidenav li a {
-      float: left;
-      display: list-item;
-      border-right: 1px solid white;
-      border-bottom: 1px solid white;
+    float: left;
+    display: list-item;
+    border-right: 2px solid white;
+    border-bottom: 2px solid white;
   }
 
-  div.content {margin-left: 0;}
+  div.content {
+    margin-left: 0;
+  }
 
   #skill_tree {
     width: 100%;
