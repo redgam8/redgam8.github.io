@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Elyse in Wonderland</title>
+  <author>Elyse Pipitone and Jin Kim</author>
+  <link>https://www.facebook.com/elyse1015</link>
+  <description>Follow Elyse to learn a lot about our new world, Wonderland!
+  We will discuss about different cultures, and multiculturalism in Hamilton, Ontario, Canada.</description>
+  <language>en-us</language>
+  <copyright>Elyse Pipitone, Jin Kim</copyright>
+  <atom:link href="http://lemontreecanada.com/EIW/EIW-itunes-feed.xml" rel="self" type="application/rss+xml" />
+  <lastBuildDate>Sun, 24 Sep 2017 10:00:01 EST</lastBuildDate>
+  <itunes:image href="http://lemontreecanada.com/EIW/cover.png"/>
+
+  <itunes:author>Elyse Pipitone and Jin Kim</itunes:author>
+  <itunes:summary>Follow Elyse to learn a lot about our new world, Wonderland!</itunes:summary>
+  <itunes:owner>
+      <itunes:name>Elyse Pipitone and Jin Kim</itunes:name>
+      <itunes:email>jinhyung.kim@mohawkcollege.ca</itunes:email>
+  </itunes:owner>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:category text="Society &amp; Culture"></itunes:category>
+  <itunes:keywords>Canada, Hamilton, Culture, World</itunes:keywords>
+
+  <item>
+      <title>1-Intro</title>
+      <pubDate>Sun, 27 Aug 2017 09:00:00 EST</pubDate>
+      <description>Introduce what is "Elyse in Wonderland"</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-1-Intro.mp3" length="44470166" type="audio/mpeg" />
+      <itunes:summary>Introduce what is "Elyse in Wonderland"</itunes:summary>
+      <itunes:duration>00:46:19</itunes:duration>
+  </item>
+
+  <item>
+      <title>2-Welcome to Canada</title>
+      <pubDate>Sun, 3 Sep 2017 09:00:00 EST</pubDate>
+      <description>Welcome international students in Canada</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-2-Welcome_to_Canada.mp3" length="45205368" type="audio/mpeg" />
+      <itunes:summary>Welcome international students in Canada</itunes:summary>
+      <itunes:duration>00:47:05</itunes:duration>
+  </item>
+
+  <item>
+      <title>3-SuperCrawl</title>
+      <pubDate>Sun, 10 Sep 2017 09:00:00 EST</pubDate>
+      <description>Introduce Hamilton's SuperCrawl</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-3-SuperCrawl_Maria.mp3" length="17871248" type="audio/mpeg" />
+      <itunes:summary>Introduce Hamilton's SuperCrawl</itunes:summary>
+      <itunes:duration>00:18:36</itunes:duration>
+  </item>
+
+  <item>
+      <title>4-TIFF</title>
+      <pubDate>Sun, 17 Sep 2017 09:00:00 EST</pubDate>
+      <description>Introduce Toronto International Film Festival</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-4-TIFF.mp3" length="30084846" type="audio/mpeg" />
+      <itunes:summary>Introduce Toronto International Film Festival</itunes:summary>
+      <itunes:duration>00:31:20</itunes:duration>
+  </item>
+
+  <item>
+      <title>5-Spanish (Feat. Luz Gonzalez)</title>
+      <pubDate>Sun, 24 Sep 2017 09:00:00 EST</pubDate>
+      <description>Elyse when to Spain. Invite guest "Spanish show" host on FM 101.5</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-5-Spanish_Luz.mp3" length="40338223" type="audio/mpeg" />
+      <itunes:summary>Elyse when to Spain. Invite guest "Spanish show" host on FM 101.5</itunes:summary>
+      <itunes:duration>00:42:01</itunes:duration>
+  </item>
+
+  <item>
+      <title>6-Romanian (Feat. Ada Petra)</title>
+      <pubDate>Sun, 1 Oct 2017 09:00:00 EST</pubDate>
+      <description>Invite guest from Romania</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-6-Romanian_Ada.mp3" length="41735496" type="audio/mpeg" />
+      <itunes:summary>Invite guest from Romania</itunes:summary>
+      <itunes:duration>00:43:28</itunes:duration>
+  </item>
+
+  <item>
+      <title>7-Thanksgiving</title>
+      <pubDate>Sun, 8 Oct 2017 09:00:00 EST</pubDate>
+      <description>[There was an issue on recording so middle part has been cut] Talk about Thanksgiving and what people are thankful of.</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-7-Thanksgiving.mp3" length="17715364" type="audio/mpeg" />
+      <itunes:summary>[There was an issue on recording so middle part has been cut] Talk about Thanksgiving and what people are thankful of.</itunes:summary>
+      <itunes:duration>00:18:27</itunes:duration>
+  </item>
+
+  <item>
+      <title>8-Body Positivity (Feat. Cynthia)</title>
+      <pubDate>Sun, 15 Oct 2017 09:00:00 EST</pubDate>
+      <description>Talk about Body Positivity with a guest, Cynthia.</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-8-Body_Positivity_Culture_Cynthia.mp3" length="42347815" type="audio/mpeg" />
+      <itunes:summary>Talk about Body Positivity with a guest, Cynthia.</itunes:summary>
+      <itunes:duration>00:44:06</itunes:duration>
+  </item>
+
+  <item>
+      <title>9-Sudan (Feat. Aziz)</title>
+      <pubDate>Sun, 22 Oct 2017 09:00:00 EST</pubDate>
+      <description>Talk about Sudan with a guest, Aziz.</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-9-Sudan_Aziz.mp3" length="42595239" type="audio/mpeg" />
+      <itunes:summary>Talk about Sudan with a guest, Aziz.</itunes:summary>
+      <itunes:duration>00:44:22</itunes:duration>
+  </item>
+
+  <item>
+      <title>10-Halloween (Feat. Maria Bracalenti)</title>
+      <pubDate>Sun, 29 Oct 2017 09:00:00 EST</pubDate>
+      <description>This week, we invite Maria Bracalenti to talk about Halloween with costume dressed up! Are you ready for Halloween? Let us know what costume you will put on :)</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-10-Halloween_Maria.mp3" length="41815712" type="audio/mpeg" />
+      <itunes:summary>This week, we invite Maria Bracalenti to talk about Halloween with costume dressed up! Are you ready for Halloween? Let us know what costume you will put on :)</itunes:summary>
+      <itunes:duration>00:43:33</itunes:duration>
+  </item>
+
+  <item>
+      <title>11-South Korea (Feat. Hyemin Kim, Thea Laidman)</title>
+      <pubDate>Sun, 5 Nov 2017 09:00:00 EST</pubDate>
+      <description>This week, we will invite Hyemin Kim and Thea Laidman to talk about South Korea they recently visited!</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-11-South_Korea_Thea,Hyemin.mp3" length="44754385" type="audio/mpeg" />
+      <itunes:summary>This week, we will invite Hyemin Kim and Thea Laidman to talk about South Korea they recently visited!</itunes:summary>
+      <itunes:duration>00:46:37</itunes:duration>
+  </item>
+
+  <item>
+      <title>12-Immigration and Nigeria (Feat. Sam Taiwo)</title>
+      <pubDate>Sun, 12 Nov 2017 09:00:00 EST</pubDate>
+      <description>This week, we will invite Dr. Taiwo to talk about his journey to come to Canada and about Nigeria.</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-12-Immigration_Africa_Sam.mp3" length="43794342" type="audio/mpeg" />
+      <itunes:summary>This week, we will invite Dr. Taiwo to talk about his journey to come to Canada and about Nigeria.</itunes:summary>
+      <itunes:duration>00:45:37</itunes:duration>
+  </item>
+
+  <item>
+      <title>13-India - What do you REALLY know? (Feat. Chengappa)</title>
+      <pubDate>Sun, 19 Nov 2017 09:00:00 EST</pubDate>
+      <description>This week Chengappa from Bangalore India spoke to us about the vast diversity of his country, some misconceptions about India, food from different regions and shared some traditional and modern music. You will certainly learn something new that will change your perception of India!</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-13-India_-_What_do_you_REALLY_know_Cheng.mp3" length="45069164" type="audio/mpeg" />
+      <itunes:summary>This week Chengappa from Bangalore India spoke to us about the vast diversity of his country, some misconceptions about India, food from different regions and shared some traditional and modern music. You will certainly learn something new that will change your perception of India!</itunes:summary>
+      <itunes:duration>00:46:56</itunes:duration>
+  </item>
+
+  <item>
+      <title>14-World Fairy Tale Festival (Feat. Bernadette Rule)</title>
+      <pubDate>Sun, 26 Nov 2017 09:00:00 EST</pubDate>
+      <description>[There was an issue so the audio quality isn't that great for the first 10 minutes.] Ever wonder how other countries express their folklore and #fairy tales? We discuss with author Bernadette Rule to unearth some difference in the way cultures tell tales through story.</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-14-World_Fairy_Tale_Festival_Bernadette.mp3" length="44321811" type="audio/mpeg" />
+      <itunes:summary>[There was an issue so the audio quality isn't that great for the first 10 minutes.] Ever wonder how other countries express their folklore and #fairy tales? We discuss with author Bernadette Rule to unearth some difference in the way cultures tell tales through story.</itunes:summary>
+      <itunes:duration>00:46:10</itunes:duration>
+  </item>
+
+  <item>
+      <title>15-Karam Kitchen</title>
+      <pubDate>Sun, 3 Dec 2017 09:00:00 EST</pubDate>
+      <description>What is your impression of Syria? On our next show, we interview three members of Hamilton’s Syrian Refugee run Karam Kitchen company, where we will discuss their experience coming to Canada, the community they have created through the love of traditional Syrian food, and their dreams for the future.</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-15-Karam_Kitchen.mp3" length="37836327" type="audio/mpeg" />
+      <itunes:summary>What is your impression of Syria? On our next show, we interview three members of Hamilton’s Syrian Refugee run Karam Kitchen company, where we will discuss their experience coming to Canada, the community they have created through the love of traditional Syrian food, and their dreams for the future.</itunes:summary>
+      <itunes:duration>00:39:24</itunes:duration>
+  </item>
+
+  <item>
+      <title>16-Looking back on 2017</title>
+      <pubDate>Sun, 17 Dec 2017 09:00:00 EST</pubDate>
+      <description>Elyse in Wonderland is looking back on 2017! Want to hear some of our favourite moments from our first year in radio, and learn about where we want to go from here? Tune in this Sunday! Let us know if you'd like to be added to our private messaging thread so you can ask us all sorts of questions LIVE :) Looking forward to celebrating 2017 with you this Sunday!</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-16-Looking_back_on_2017.mp3" length="42862293" type="audio/mpeg" />
+      <itunes:summary>Elyse in Wonderland is looking back on 2017! Want to hear some of our favourite moments from our first year in radio, and learn about where we want to go from here? Tune in this Sunday! Let us know if you'd like to be added to our private messaging thread so you can ask us all sorts of questions LIVE :) Looking forward to celebrating 2017 with you this Sunday!</itunes:summary>
+      <itunes:duration>00:44:38</itunes:duration>
+  </item>
+
+  <item>
+      <title>17-Happy New Year</title>
+      <pubDate>Sun, 7 Jan 2018 09:00:00 EST</pubDate>
+      <description>New Years Around the Globe – Dressing up in a bear suit, eating 12 grapes at the stroke of midnight, and wearing special coloured underthings to bring good fortune, learn about unique ways in which people around the world ring in the new year on our special HAPPY NEW YEAR edition of Elyse in Wonderland. </description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-17-Happy_New_Year.mp3" length="46004922" type="audio/mpeg" />
+      <itunes:summary>New Years Around the Globe – Dressing up in a bear suit, eating 12 grapes at the stroke of midnight, and wearing special coloured underthings to bring good fortune, learn about unique ways in which people around the world ring in the new year on our special HAPPY NEW YEAR edition of Elyse in Wonderland. </itunes:summary>
+      <itunes:duration>00:47:55</itunes:duration>
+  </item>
+
+  <item>
+      <title>18-Disability Awareness (Feat. Anthony Frisina, Julian Baird)</title>
+      <pubDate>Sun, 21 Jan 2018 09:00:00 EST</pubDate>
+      <description>Today we talk to guests Anthony Frisina about his work with disability awareness through his TV show Above and Beyond, and Julian Baird about his experiences travelling the world with a disability. We will explore stigma, challenges, and advocacy for people with disabilities in our culture today. Looking forward to a great informative show!</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-18-Disability_Awareness_Anthony,Julian.mp3" length="44857630" type="audio/mpeg" />
+      <itunes:summary>Today we talk to guests Anthony Frisina about his work with disability awareness through his TV show Above and Beyond, and Julian Baird about his experiences travelling the world with a disability. We will explore stigma, challenges, and advocacy for people with disabilities in our culture today. Looking forward to a great informative show!</itunes:summary>
+      <itunes:duration>00:46:43</itunes:duration>
+  </item>
+
+  <item>
+      <title>19-Mecca (Feat. MoeMoe)</title>
+      <pubDate>Sun, 28 Jan 2018 09:00:00 EST</pubDate>
+      <description>Listen to our inspiring guest Mohamed Mohamed talks about his experience travelling to Mecca, and learn why this is such an important city. Don’t forget to join our group chat (https://www.facebook.com/messages/t/1440979949349340) to ask any questions you have for our guests.</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-19-Mecca_MoeMoe.mp3" length="24553911" type="audio/mpeg" />
+      <itunes:summary>Listen to our inspiring guest Mohamed Mohamed talks about his experience travelling to Mecca, and learn why this is such an important city. Don’t forget to join our group chat (https://www.facebook.com/messages/t/1440979949349340) to ask any questions you have for our guests.</itunes:summary>
+      <itunes:duration>00:43:48</itunes:duration>
+  </item>
+
+  <item>
+      <title>20-The World Travels of Denis Ranque</title>
+      <pubDate>Sun, 4 Feb 2018 09:00:00 EST</pubDate>
+      <description>From Cameroon to France, to New Caledonia, Australia, and Bolivia – all before the age of 19! Denis will share his stories of travel, and experiences as a transplant in each new country he explored. Tune in to learn more about these vibrant cultures, and what Denis thinks about settling in Canada now.</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-20-The_World_Travels_of_Denis_Ranque.mp3" length="23859715" type="audio/mpeg" />
+      <itunes:summary>From Cameroon to France, to New Caledonia, Australia, and Bolivia – all before the age of 19! Denis will share his stories of travel, and experiences as a transplant in each new country he explored. Tune in to learn more about these vibrant cultures, and what Denis thinks about settling in Canada now.</itunes:summary>
+      <itunes:duration>00:47:36</itunes:duration>
+  </item>
+
+  <item>
+      <title>21-Lunar New Year (Feat. Maggie Chen)</title>
+      <pubDate>Sun, 11 Feb 2018 09:00:00 EST</pubDate>
+      <description>Hug the nearest dog (if it’s safe to do so), because its YEAR OF THE DOG! Want to know why? Check out Elyse in Wonderland – Elyse and Jin travel around Asia picking up expensive red envelopes and eating too many dumplings. </description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-21-Lunar_New_Year_Maggie.mp3" length="23735879" type="audio/mpeg" />
+      <itunes:summary>Hug the nearest dog (if it’s safe to do so), because its YEAR OF THE DOG! Want to know why? Check out Elyse in Wonderland – Elyse and Jin travel around Asia picking up expensive red envelopes and eating too many dumplings. </itunes:summary>
+      <itunes:duration>00:48:08</itunes:duration>
+  </item>
+
+  <item>
+      <title>22-Elyse in Yukon</title>
+      <pubDate>Sun, 25 Feb 2018 09:00:00 EST</pubDate>
+      <description>Adventures in the Yukon! Elyse comes back from her expedition up north with some new stories of a white wonderland - tune in to hear more about Canada’s rich northern history.</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-22-Elyse_in_Yukon.mp3" length="22289592" type="audio/mpeg" />
+      <itunes:summary>Adventures in the Yukon! Elyse comes back from her expedition up north with some new stories of a white wonderland - tune in to hear more about Canada’s rich northern history.</itunes:summary>
+      <itunes:duration>00:43:06</itunes:duration>
+  </item>
+
+  <item>
+      <title>23-Insider's look at the Olympic 2018</title>
+      <pubDate>Sun, 4 Mar 2018 09:00:00 EST</pubDate>
+      <description>Ever wonder what it's like being in the action at the Olympic games? Tune in to hear from our guest Bob Glaister about his recent visit to South Korea at the PyeongChang Olympic!</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-23-Insider_look_at_the_Olympic_2018_Bob.mp3" length="22643041" type="audio/mpeg" />
+      <itunes:summary>Ever wonder what it's like being in the action at the Olympic games? Tune in to hear from our guest Bob Glaister about his recent visit to South Korea at the PyeongChang Olympic!</itunes:summary>
+      <itunes:duration>00:37:37</itunes:duration>
+  </item>
+
+  <item>
+      <title>24-Ghostwriter (Feat. Jody Aberdeen)</title>
+      <pubDate>Sun, 18 Mar 2018 09:00:00 EST</pubDate>
+      <description>Who you gonna call? GHOSTWRITER! Ever wonder what the life of a ghostwriter is like? Learn more about how our guest Jody fell into this field of work, and hear about his future plans for travel on next weeks episode</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-24-Ghostwriter_Jody.mp3" length="24487353" type="audio/mpeg" />
+      <itunes:summary>Who you gonna call? GHOSTWRITER! Ever wonder what the life of a ghostwriter is like? Learn more about how our guest Jody fell into this field of work, and hear about his future plans for travel on next weeks episode</itunes:summary>
+      <itunes:duration>00:46:37</itunes:duration>
+  </item>
+
+  <item>
+      <title>25-Tammy Hwang's Many Hats</title>
+      <pubDate>Sun, 25 Mar 2018 09:00:00 EST</pubDate>
+      <description>Working on Hamilton’s newcomer economic development, advising young professionals, and creating collaborative spaces for innovative work – Tammy does it all. Learn more about what makes Tammy love Hamilton so much, and where we’re headed as an “Intelligent Community”</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-25-Tammy_Hwang_Many_Hats.mp3" length="24614904" type="audio/mpeg" />
+      <itunes:summary>Working on Hamilton’s newcomer economic development, advising young professionals, and creating collaborative spaces for innovative work – Tammy does it all. Learn more about what makes Tammy love Hamilton so much, and where we’re headed as an “Intelligent Community”</itunes:summary>
+      <itunes:duration>00:48:15</itunes:duration>
+  </item>
+
+  <item>
+      <title>26-Ireland</title>
+      <pubDate>Sun, 1 Apr 2018 09:00:00 EST</pubDate>
+      <description>“Top of the Morning to you” (and other things people don’t really say in Ireland). Come explore Dublin and Limerick with Elyse, as she discusses fairy myths, traditional songs and the food of this beautiful country.</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-26-Ireland.mp3" length="13667045" type="audio/mpeg" />
+      <itunes:summary>“Top of the Morning to you” (and other things people don’t really say in Ireland). Come explore Dublin and Limerick with Elyse, as she discusses fairy myths, traditional songs and the food of this beautiful country.</itunes:summary>
+      <itunes:duration>00:45:10</itunes:duration>
+  </item>
+
+  <item>
+      <title>27-The Man From North India (Feat. Vinay Joshi)</title>
+      <pubDate>Sun, 22 Apr 2018 09:00:00 EST</pubDate>
+      <description>Our old friend from India, Vinay Joshi is finally revealing his life before Canada and journey to Canada. He was an international student at Mohawk College and now he is helping students from India to success in Canada just like he did.</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-27-The_Man_From_North_India_Vinay.mp3" length="21367684" type="audio/mpeg" />
+      <itunes:summary>Our old friend from India, Vinay Joshi is finally revealing his life before Canada and journey to Canada. He was an international student at Mohawk College and now he is helping students from India to success in Canada just like he did.</itunes:summary>
+      <itunes:duration>00:46:14</itunes:duration>
+  </item>
+
+  <item>
+      <title>28-Life of an Entertainer (Feat. Chris Mei)</title>
+      <pubDate>Sun, 29 Apr 2018 09:00:00 EST</pubDate>
+      <description>Take a sneak peak backstage to the life and lessons of navigating the TV and Broadcasting world as we chat with Chris about jobs from Cruise Ship MC to Weatherman, and all the stories in between!</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-28-Chris_Mei-Life_of_an_Entertainer.mp3" length="23887446" type="audio/mpeg" />
+      <itunes:summary>Take a sneak peak backstage to the life and lessons of navigating the TV and Broadcasting world as we chat with Chris about jobs from Cruise Ship MC to Weatherman, and all the stories in between!</itunes:summary>
+      <itunes:duration>00:46:11</itunes:duration>
+  </item>
+
+  <item>
+      <title>29-Jin and Elyse Freestyle</title>
+      <pubDate>Thu, 3 May 2018 17:00:00 EST</pubDate>
+      <description>Learn about what happened throughout our weeks, Jin’s upcoming plans to visit Korea amidst talk of peace treaties, and Elyse’s Indian wedding experience. Hear the latest tunes on their playlists, and much more.</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-29-Jin_Elyse_Freestyle.mp3" length="15414543" type="audio/mpeg" />
+      <itunes:summary>Learn about what happened throughout our weeks, Jin’s upcoming plans to visit Korea amidst talk of peace treaties, and Elyse’s Indian wedding experience. Hear the latest tunes on their playlists, and much more.</itunes:summary>
+      <itunes:duration>00:36:43</itunes:duration>
+  </item>
+
+  <item>
+      <title>30-Doing Business in China (Feat. Maggie Chen)</title>
+      <pubDate>Thu, 10 May 2018 17:00:00 EST</pubDate>
+      <description>Learn from our Recruiter Maggie Chen about her experience recruiting students in China, and tips like how to ride the subway at rush hour (hint, pushing is involved), and some cultural norms around how business is conducted in China!</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-30-Doing_Business_In_China-Maggie.mp3" length="24354411" type="audio/mpeg" />
+      <itunes:summary>Learn from our Recruiter Maggie Chen about her experience recruiting students in China, and tips like how to ride the subway at rush hour (hint, pushing is involved), and some cultural norms around how business is conducted in China!</itunes:summary>
+      <itunes:duration>00:53:14</itunes:duration>
+  </item>
+
+  <item>
+      <title>31-Much Ado about Peru! (Feat. Ceasar)</title>
+      <pubDate>Thu, 17 May 2018 17:00:00 EST</pubDate>
+      <description>This episode we talk to Cesar about his journey to Canada, and his life’s mission of supporting Indigenous populations by putting his education to work for him, back in his home country of Peru. </description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-31-Much_Ado_about_Peru.mp3" length="20806521" type="audio/mpeg" />
+      <itunes:summary>This episode we talk to Cesar about his journey to Canada, and his life’s mission of supporting Indigenous populations by putting his education to work for him, back in his home country of Peru. </itunes:summary>
+      <itunes:duration>00:47:36</itunes:duration>
+  </item>
+
+  <item>
+      <title>32-Life is Too Short Not to Laugh (Feat. Pramit Mehta)</title>
+      <pubDate>Thu, 31 May 2018 17:00:00 EST</pubDate>
+      <description>This Thursday I'm SOLO in the studio, where I will talk about the growing trend of International interest in studying in Canada, and what it takes to stay positive in a new country.<br />I will play my interview with one outstanding student Pramit Mehta, who has been recognized in a special way for the way his spreads joy to others via his infectious laughter.<br />Follow his good work here; https://www.linkedin.com/in/capramit/ <br />See you on Thursday!</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-32-Life_is_Too_Short_Not_to_Laugh.mp3" length="18941110" type="audio/mpeg" />
+      <itunes:summary>This Thursday I'm SOLO in the studio, where I will talk about the growing trend of International interest in studying in Canada, and what it takes to stay positive in a new country.<br />I will play my interview with one outstanding student Pramit Mehta, who has been recognized in a special way for the way his spreads joy to others via his infectious laughter.<br />Follow his good work here; https://www.linkedin.com/in/capramit/ <br />See you on Thursday!</itunes:summary>
+      <itunes:duration>00:42:55</itunes:duration>
+  </item>
+
+  <item>
+      <title>33-India to Indiana, Mumbai to Dubai (Feat. Jamshed)</title>
+      <pubDate>Thu, 7 June 2018 17:00:00 EST</pubDate>
+      <description>From touring the world performing in orchestra pits on broadway, composing for television and movies for the likes of Disney, Cartoon Network, National Geographic and the NFB, to his role now as program coordinator and mentor of music students. I will talk to Jamshed Turel about his experiences thriving in new cultures.</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-33-India_to_Indiana-Mumbai_to_Dubai.mp3" length="23053828" type="audio/mpeg" />
+      <itunes:summary>From touring the world performing in orchestra pits on broadway, composing for television and movies for the likes of Disney, Cartoon Network, National Geographic and the NFB, to his role now as program coordinator and mentor of music students. I will talk to Jamshed Turel about his experiences thriving in new cultures.</itunes:summary>
+      <itunes:duration>00:51:29</itunes:duration>
+  </item>
+
+  <item>
+      <title>34-FanCulture Geek Out (Feat. David Thorne)</title>
+      <pubDate>Thu, 14 June 2018 17:00:00 EST</pubDate>
+      <description>Join David Thorne and I as we talk about his recent experience as Celebrity Handler at Comicon, his passion for FX makeup, and what fan culture is all about!</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-34-FanCulture_Geek_Out.mp3" length="21576720" type="audio/mpeg" />
+      <itunes:summary>Join David Thorne and I as we talk about his recent experience as Celebrity Handler at Comicon, his passion for FX makeup, and what fan culture is all about!</itunes:summary>
+      <itunes:duration>00:47:40</itunes:duration>
+  </item>
+
+  <item>
+      <title>35-Vacation in Korea, Life in Canada</title>
+      <pubDate>Thu, 21 June 2018 17:00:00 EST</pubDate>
+      <description>Jin is back from his vacation and he brought stories to tell us. He will tell us about his very busy vacation schedule, what his friends do, delicious fooooooood and recommended places to visit in Korea. <br />He also wants to talk why it was difficult for him to come back to Canada this time. Let's ask him why.</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-35-Vacation_in_Korea-Life_in_canada.mp3" length="21130822" type="audio/mpeg" />
+      <itunes:summary>Jin is back from his vacation and he brought stories to tell us. He will tell us about his very busy vacation schedule, what his friends do, delicious fooooooood and recommended places to visit in Korea. <br />He also wants to talk why it was difficult for him to come back to Canada this time. Let's ask him why.</itunes:summary>
+      <itunes:duration>00:48:45</itunes:duration>
+  </item>
+
+  <item>
+      <title>36-From Taiwan to Canada (Feat. Ceres Chen)</title>
+      <pubDate>Thu, 5 July 2018 17:00:00 EST</pubDate>
+      <description>We will invite Ceres Chen who went to High school in the US, college in Canada and wants to study Master's degree in Europe. It will be interesting to hear how student life is different from the US to Canada, and why she wants to go to Europe for Master's degree. Be ready for the another unique international student's story!</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-36-From_Taiwan_to_Canada.mp3" length="17849798" type="audio/mpeg" />
+      <itunes:summary>We will invite Ceres Chen who went to High school in the US, college in Canada and wants to study Master's degree in Europe. It will be interesting to hear how student life is different from the US to Canada, and why she wants to go to Europe for Master's degree. Be ready for the another unique international student's story!</itunes:summary>
+      <itunes:duration>00:39:57</itunes:duration>
+  </item>
+
+  <item>
+      <title>37-Japanese snow (Yuki) came for Canadian snow</title>
+      <pubDate>Thu, 19 July 2018 17:00:00 EST</pubDate>
+      <description>We all know about Japan but have you met them in Hamilton? You probably haven't because even in Mohawk College, there is 1 Japanese student. His name is Yuki and we are going to hear how it feels to be only Japanese student in Mohawk.</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-37-Japanese_Snow(Yuki)_came_for_Canadian_snow.mp3" length="21152391" type="audio/mpeg" />
+      <itunes:summary>We all know about Japan but have you met them in Hamilton? You probably haven't because even in Mohawk College, there is 1 Japanese student. His name is Yuki and we are going to hear how it feels to be only Japanese student in Mohawk.</itunes:summary>
+      <itunes:duration>00:51:29</itunes:duration>
+  </item>
+
+  <item>
+      <title>38-Club Wonderland</title>
+      <pubDate>Thu, 09 August 2018 17:00:00 EST</pubDate>
+      <description>Club Wonderland is finally open! Where the world musics come to have fun. Please join us and taste songs you have never experienced! Not advised to 5 years old baby or under in case of too much bouncing :)</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-38-Club_Wonderland.mp3" length="7211865" type="audio/mpeg" />
+      <itunes:summary>Club Wonderland is finally open! Where the world musics come to have fun. Please join us and taste songs you have never experienced! Not advised to 5 years old baby or under in case of too much bouncing :)</itunes:summary>
+      <itunes:duration>00:17:00</itunes:duration>
+  </item>
+
+  <item>
+      <title>39-Elyse in Europe</title>
+      <pubDate>Thu, 30 August 2018 17:00:00 EST</pubDate>
+      <description>Long time no see! Elyse just came back from Europe and she brought lots of stories to share! Come to see her dynamic days in Germany, Prague, Austria, and Croatia.</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-39-Elyse_in_Europe.mp3" length="18888590" type="audio/mpeg" />
+      <itunes:summary>Long time no see! Elyse just came back from Europe and she brought lots of stories to share! Come to see her dynamic days in Germany, Prague, Austria, and Croatia.</itunes:summary>
+      <itunes:duration>00:44:41</itunes:duration>
+  </item>
+
+  <item>
+      <title>40-SuperCrawl with HartRidge</title>
+      <pubDate>Thu, 13 September 2018 17:00:00 EST</pubDate>
+      <description>Are you excited for Hamilton's biggest event, SuperCrawl? We are and we will be part of the event as we will have a booth on Saturday 12-5PM. @HartRidge is also part of the event. They are selling goods for some months in ArtCrawl and they got approved seat in SuperCrawl on Friday and Sunday. Let's have a chat with them to learn more about their art concepts, the life of artists, and more</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-40-SuperCrawl_with_HartRidge.mp3" length="20184153" type="audio/mpeg" />
+      <itunes:summary>Are you excited for Hamilton's biggest event, SuperCrawl? We are and we will be part of the event as we will have a booth on Saturday 12-5PM. @HartRidge is also part of the event. They are selling goods for some months in ArtCrawl and they got approved seat in SuperCrawl on Friday and Sunday. Let's have a chat with them to learn more about their art concepts, the life of artists, and more</itunes:summary>
+      <itunes:duration>00:47:54</itunes:duration>
+  </item>
+
+  <item>
+      <title>41-Astronomy with Kathy and Tien</title>
+      <pubDate>Thu, 20 September 2018 17:00:00 EST</pubDate>
+      <description>Space - The Next Frontier. Jin and Elyse climb aboard the rocket ship Wonderland, and chat with our Astronomy buff guests Kathy and Tien about their Astronomy club, and what they think of the future of space exploration.</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-20180920-41-Astronomy_101_Kathy_Tien.mp3" length="21616771" type="audio/mpeg" />
+      <itunes:summary>Space - The Next Frontier. Jin and Elyse climb aboard the rocket ship Wonderland, and chat with our Astronomy buff guests Kathy and Tien about their Astronomy club, and what they think of the future of space exploration.</itunes:summary>
+      <itunes:duration>00:51:37</itunes:duration>
+  </item>
+
+  <item>
+      <title>42-Brazil with Jacques and Ulysses</title>
+      <pubDate>Thu, 27 September 2018 17:00:00 EST</pubDate>
+      <description>Brazil or Bust! We speak to Jacques Heri and Ulysses Almeida about their move to Canada, all the things they love about their home country, and Jin and Elyse fumble while learning Portuguese! Tune in to explore beautiful Brazil!</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-20180927-42-Brazil_Jacques_Ulysses.mp3" length="12533048" type="audio/mpeg" />
+      <itunes:summary>Brazil or Bust! We speak to Jacques Heri and Ulysses Almeida about their move to Canada, all the things they love about their home country, and Jin and Elyse fumble while learning Portuguese! Tune in to explore beautiful Brazil!</itunes:summary>
+      <itunes:duration>00:51:56</itunes:duration>
+  </item>
+
+  <item>
+      <title>43-English Education in South Korea (Feat. Janet Shin)</title>
+      <pubDate>Thu, 1 November 2018 17:00:00 EST</pubDate>
+      <description>Ever wonder how people learn English in other countries? Every country may be different but especially Asian English education seems dramatically different than here. We will invite an English teacher from South Korea, Janet Shin.</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-20181101-43-English_Education_in_South_Korea.mp3" length="22888411" type="audio/mpeg" />
+      <itunes:summary>Ever wonder how people learn English in other countries? Every country may be different but especially Asian English education seems dramatically different than here. We will invite an English teacher from South Korea, Janet Shin.</itunes:summary>
+      <itunes:duration>00:37:13</itunes:duration>
+  </item>
+
+  <item>
+      <title>44-Wonderful Syria (Feat. Majdoulin)</title>
+      <pubDate>Thu, 8 November 2018 17:00:00 EST</pubDate>
+      <description>Join us as we speak with Majdoulin Hareri about her Syria – and all of the history, traditions, customs and language of her country.</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-20181108-44-Wonderful_Syria.mp3" length="29571047" type="audio/mpeg" />
+      <itunes:summary>Join us as we speak with Majdoulin Hareri about her Syria – and all of the history, traditions, customs and language of her country.</itunes:summary>
+      <itunes:duration>00:48:58</itunes:duration>
+  </item>
+
+  <item>
+      <title>45-Colombia (Feat. Ricardo)</title>
+      <pubDate>Thu, 22 November 2018 17:00:00 EST</pubDate>
+      <description>We have a new family member in Mohawk International - Ricardo Rivera. Who helps South American students to come to Canada. It's time to discover Colombia and his amazing journey to Canada.</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-20181122-45-Colombia.mp3" length="28666158" type="audio/mpeg" />
+      <itunes:summary>We have a new family member in Mohawk International - Ricardo Rivera. Who helps South American students to come to Canada. It's time to discover Colombia and his amazing journey to Canada.</itunes:summary>
+      <itunes:duration>00:47:36</itunes:duration>
+  </item>
+
+  <item>
+      <title>46-Return of the Music King (Feat. Jamshed)</title>
+      <pubDate>Thu, 29 November 2018 17:00:00 EST</pubDate>
+      <description>We chat with Jamshed Turel all about #music in #India, from its classical roots to its presence in #Bollywood, with live in-studio demos!</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-20181129-46-Return_of_the_Music_King.mp3" length="32697710" type="audio/mpeg" />
+      <itunes:summary>We chat with Jamshed Turel all about #music in #India, from its classical roots to its presence in #Bollywood, with live in-studio demos!</itunes:summary>
+      <itunes:duration>00:55:44</itunes:duration>
+  </item>
+
+  <item>
+      <title>47-Ritsona Refugee Camp (Feat. Alex, Abby)</title>
+      <pubDate>Thu, 6 December 2018 17:00:00 EST</pubDate>
+      <description>In October 2018, 12 Mohawk College students travelled to Greece to volunteer with refugees. Hear from Alex and Abby, and how this experience has changed them.</description>
+      <enclosure url="http://lemontreecanada.com/EIW/EIW-20181206-47-Ritsona_Refugee_Camp.mp3" length="31076612" type="audio/mpeg" />
+      <itunes:summary>In October 2018, 12 Mohawk College students travelled to Greece to volunteer with refugees. Hear from Alex and Abby, and how this experience has changed them.</itunes:summary>
+      <itunes:duration>00:51:05</itunes:duration>
+  </item>
+
+
+
+
+
+</channel>
+</rss>
